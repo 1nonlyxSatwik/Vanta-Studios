@@ -1,4 +1,3 @@
-import React from 'react';
 import Hero from './components/Hero';
 import ValueProps from './components/ValueProps';
 import MissionStatement from './components/MissionStatement';

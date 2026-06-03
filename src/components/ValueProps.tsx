@@ -1,4 +1,4 @@
-import React from 'react';
+
 import DotGrid from './DotGrid';
 
 const border = '1px solid rgba(255,255,255,0.08)';

@@ -74,6 +74,7 @@ const DotGrid: React.FC<DotGridProps> = ({
     <div
       ref={containerRef}
       style={{
+        backgroundColor: bgColor,
         display: 'grid',
         gridTemplateColumns: `repeat(${cols}, 1fr)`,
         gap: '5px',
